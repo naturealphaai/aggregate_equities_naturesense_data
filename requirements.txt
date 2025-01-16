@@ -1,0 +1,2 @@
+# Data manipulation
+pandas==2.2.2
